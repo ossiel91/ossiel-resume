@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Ossiel Romero",
+    "occupation": "Web Developer",
+    "description": " ",
+    "image": "profilepic.jpg",
+    "bio": "My name is Ossiel. I am Mexican but currently living & working in Vancouver, Canada. I like to live the typical Vancouver Lifestyle, which consists of solving problems during the week & hiking, and exploring on the weekends.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email":"ossiel91@protonmail.com",
+    "phone": "+1-778-208-6591",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Vancouver",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.ossiel.xyz",
+    "github": "http://github.com/ossiel91",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/ossiel91",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/ossiel91",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ossiel91/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/ossiel91",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/ossiel91",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have many tools & techniques in my digital toolbelt, these are the ones I have used recently are",
+    "education": [
+      {
+        "school": "University",
+        "degree": "Guilford Technical Community College",
+        "graduated": "June 2013",
+        "description": "Studied Aviation Management and Communications. I learned administrative administrative methodologies, communication, and team management."
+      }
+    ],
+    "work": [
+      {
+        "company": "Ossiel Designs",
+        "title": "Consultant",
+        "years": "August 2014 - Present",
+        "description": "Worked for over a decade as a consultant providing various IT services and support for individual clients. "
+      },
+      {
+        "company": "SITE123",
+        "title": "Support",
+        "years": "March 2007 - February 2010",
+        "description": "Worked alongside customer experience agents to ensure the IT needs of our clients. In this position I resolved customer related issues and provided personal tutoring per client."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React (Dynamic Websites)",
+        "level": "90%"
+      },
+      {
+        "name": "WordPress (Blog CMS)",
+        "level": "60%"
+      },
+      {
+        "name": "shopify (ecommerce CMS)",
+        "level": "60%"
+      },
+      {
+        "name": "CSS (Dynamic Websites)",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5 (Dynamic Websites)",
+        "level": "90%"
+      },
+      {
+        "name": "VueJs (Dynamic Websites)",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB (Database)",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
